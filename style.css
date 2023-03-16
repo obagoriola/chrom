@@ -1,0 +1,35 @@
+div {
+    margin: 0 auto;
+}
+
+.one {
+    margin: 10% 30%;
+    color: blue red green yellow;
+}
+
+image {
+    margin-right: 70%;
+}
+
+.three {
+    margin: 10px;
+    display: flex;
+    font-size: 40px;
+}
+
+.three i {
+    padding: 0px 20px;
+    margin: auto;
+    cursor: pointer;
+}
+
+.two form {
+    position: relative;
+}
+
+.two form i {
+    position: absolute;
+    top: 40%;
+    right: 0.5%;
+    cursor: pointer;
+}
